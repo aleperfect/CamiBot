@@ -50,11 +50,11 @@ global.suittag = ['51992621601'];
 global.prems = ['51992621601'];
 
 global.packname = 'Sticker';
-global.author = 'Readz Aleizn';
-global.wm = 'Readz Aleizn';
-global.titulowm = 'Readz Aleizn';
-global.titulowm2 = `Readz Aleizn`
-global.igfg = 'Readz Aleizn';
+global.author = 'Pancito';
+global.wm = 'Pancito';
+global.titulowm = 'Pancito';
+global.titulowm2 = `Pancito`
+global.igfg = 'Pancito';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,9 +79,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nReadz Aleizn`;
-global.gt = 'Readz Aleizn';
-global.mysticbot = 'Readz Aleizn';
+global.wm2 = `${dia} ${fecha}\nPancito`;
+global.gt = 'Pancito';
+global.mysticbot = 'Pancito';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
